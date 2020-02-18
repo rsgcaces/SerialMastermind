@@ -1,0 +1,2 @@
+SerialMastermind	KEYWORD1
+playGame	KEYWORD2
